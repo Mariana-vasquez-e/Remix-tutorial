@@ -98,216 +98,75 @@ export async function deleteContact(id: string) {
 [
   {
     avatar:
-      "https://sessionize.com/image/124e-400o400o2-wHVdAuNaxi8KJrgtN3ZKci.jpg",
-    first: "Shruti",
-    last: "Kapoor",
-    twitter: "@shrutikapoor08",
+      "https://www.tiendanimal.es/articulos/wp-content/uploads/2021/12/raza-van-turco.jpg",
+    first: "Gato",
+    last: "Van Turco",
+    twitter: "@gatovanturco",
   },
   {
     avatar:
-      "https://sessionize.com/image/1940-400o400o2-Enh9dnYmrLYhJSTTPSw3MH.jpg",
-    first: "Glenn",
-    last: "Reyes",
-    twitter: "@glnnrys",
+      "https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/VWG5YLUQP5FHFGVU4PQK2QTU3U.jpg",
+    first: "Gato",
+    last: "Siames",
+    twitter: "@gatosiames",
   },
   {
     avatar:
-      "https://sessionize.com/image/9273-400o400o2-3tyrUE3HjsCHJLU5aUJCja.jpg",
-    first: "Ryan",
-    last: "Florence",
+      "https://images.ctfassets.net/denf86kkcx7r/15HC92CcCjQEg7U14aZkVM/914db181ce7e407bc2a0220436a32aa4/un_gato_persa-39",
+    first: "Gato",
+    last: "Persa",
+    twitter: "@gatopersa",
   },
   {
     avatar:
-      "https://sessionize.com/image/d14d-400o400o2-pyB229HyFPCnUcZhHf3kWS.png",
-    first: "Oscar",
-    last: "Newman",
-    twitter: "@__oscarnewman",
+      "https://www.purina.es/sites/default/files/styles/ttt_image_510/public/2024-02/sitesdefaultfilesstylessquare_medium_440x440public2022-06Sphynx.jpg?itok=oUrAvazr",
+    first: "Gato",
+    last: "Esfinge",
+    twitter: "@gatoesfinge",
   },
   {
     avatar:
-      "https://sessionize.com/image/fd45-400o400o2-fw91uCdGU9hFP334dnyVCr.jpg",
-    first: "Michael",
-    last: "Jackson",
+      "https://www.purina.es/sites/default/files/styles/ttt_image_original/public/2024-02/sitesdefaultfilesstylessquare_medium_440x440public2022-06Burmese-Cat.webp?itok=kMqwSdrj",
+    first: "Gato",
+    last: "Burmes",
+    twitter: "@gatoburmes",
   },
   {
     avatar:
-      "https://sessionize.com/image/b07e-400o400o2-KgNRF3S9sD5ZR4UsG7hG4g.jpg",
-    first: "Christopher",
-    last: "Chedeau",
-    twitter: "@Vjeux",
+      "https://www.purina.es/sites/default/files/styles/ttt_image_original/public/2024-02/sitesdefaultfilesstylessquare_medium_440x440public2022-06Munchkin.webp?itok=qxw4sj2d",
+    first: "Gato",
+    last: "Munchkin",
+    twitter: "@gatomunchkin",
   },
   {
     avatar:
-      "https://sessionize.com/image/262f-400o400o2-UBPQueK3fayaCmsyUc1Ljf.jpg",
-    first: "Cameron",
-    last: "Matheson",
-    twitter: "@cmatheson",
+      "https://wroooses.wordpress.com/wp-content/uploads/2017/02/gatoorientalf.jpg?w=663&h=663",
+    first: "Gato",
+    last: "Oriental",
+    twitter: "@gatooriental",
   },
   {
     avatar:
-      "https://sessionize.com/image/820b-400o400o2-Ja1KDrBAu5NzYTPLSC3GW8.jpg",
-    first: "Brooks",
-    last: "Lybrand",
-    twitter: "@BrooksLybrand",
+      "https://www.zooplus.es/magazine/wp-content/uploads/2017/10/AdobeStock_20494285.jpeg",
+    first: "Gato",
+    last: "Abisinio",
+    twitter: "@gatoabisinio",
   },
   {
     avatar:
-      "https://sessionize.com/image/df38-400o400o2-JwbChVUj6V7DwZMc9vJEHc.jpg",
-    first: "Alex",
-    last: "Anderson",
-    twitter: "@ralex1993",
+      "https://www.purina.es/sites/default/files/styles/ttt_image_original/public/2024-02/sitesdefaultfilesstylessquare_medium_440x440public2022-06Bombay.2.webp?itok=LbLkwYwx",
+    first: "Gato",
+    last: "Bombay",
+    twitter: "@gatobombay",
   },
   {
     avatar:
-      "https://sessionize.com/image/5578-400o400o2-BMT43t5kd2U1XstaNnM6Ax.jpg",
-    first: "Kent C.",
-    last: "Dodds",
-    twitter: "@kentcdodds",
+      "https://miauu.mx/wp-content/uploads/2022/08/gato_bengali_.webp",
+    first: "Gato",
+    last: "Bengali",
+    twitter: "@gatobengali",
   },
-  {
-    avatar:
-      "https://sessionize.com/image/c9d5-400o400o2-Sri5qnQmscaJXVB8m3VBgf.jpg",
-    first: "Nevi",
-    last: "Shah",
-    twitter: "@nevikashah",
-  },
-  {
-    avatar:
-      "https://sessionize.com/image/2694-400o400o2-MYYTsnszbLKTzyqJV17w2q.png",
-    first: "Andrew",
-    last: "Petersen",
-  },
-  {
-    avatar:
-      "https://sessionize.com/image/907a-400o400o2-9TM2CCmvrw6ttmJiTw4Lz8.jpg",
-    first: "Scott",
-    last: "Smerchek",
-    twitter: "@smerchek",
-  },
-  {
-    avatar:
-      "https://sessionize.com/image/08be-400o400o2-WtYGFFR1ZUJHL9tKyVBNPV.jpg",
-    first: "Giovanni",
-    last: "Benussi",
-    twitter: "@giovannibenussi",
-  },
-  {
-    avatar:
-      "https://sessionize.com/image/f814-400o400o2-n2ua5nM9qwZA2hiGdr1T7N.jpg",
-    first: "Igor",
-    last: "Minar",
-    twitter: "@IgorMinar",
-  },
-  {
-    avatar:
-      "https://sessionize.com/image/fb82-400o400o2-LbvwhTVMrYLDdN3z4iEFMp.jpeg",
-    first: "Brandon",
-    last: "Kish",
-  },
-  {
-    avatar:
-      "https://sessionize.com/image/fcda-400o400o2-XiYRtKK5Dvng5AeyC8PiUA.png",
-    first: "Arisa",
-    last: "Fukuzaki",
-    twitter: "@arisa_dev",
-  },
-  {
-    avatar:
-      "https://sessionize.com/image/c8c3-400o400o2-PR5UsgApAVEADZRixV4H8e.jpeg",
-    first: "Alexandra",
-    last: "Spalato",
-    twitter: "@alexadark",
-  },
-  {
-    avatar:
-      "https://sessionize.com/image/7594-400o400o2-hWtdCjbdFdLgE2vEXBJtyo.jpg",
-    first: "Cat",
-    last: "Johnson",
-  },
-  {
-    avatar:
-      "https://sessionize.com/image/5636-400o400o2-TWgi8vELMFoB3hB9uPw62d.jpg",
-    first: "Ashley",
-    last: "Narcisse",
-    twitter: "@_darkfadr",
-  },
-  {
-    avatar:
-      "https://sessionize.com/image/6aeb-400o400o2-Q5tAiuzKGgzSje9ZsK3Yu5.JPG",
-    first: "Edmund",
-    last: "Hung",
-    twitter: "@_edmundhung",
-  },
-  {
-    avatar:
-      "https://sessionize.com/image/30f1-400o400o2-wJBdJ6sFayjKmJycYKoHSe.jpg",
-    first: "Clifford",
-    last: "Fajardo",
-    twitter: "@cliffordfajard0",
-  },
-  {
-    avatar:
-      "https://sessionize.com/image/6faa-400o400o2-amseBRDkdg7wSK5tjsFDiG.jpg",
-    first: "Erick",
-    last: "Tamayo",
-    twitter: "@ericktamayo",
-  },
-  {
-    avatar:
-      "https://sessionize.com/image/feba-400o400o2-R4GE7eqegJNFf3cQ567obs.jpg",
-    first: "Paul",
-    last: "Bratslavsky",
-    twitter: "@codingthirty",
-  },
-  {
-    avatar:
-      "https://sessionize.com/image/c315-400o400o2-spjM5A6VVfVNnQsuwvX3DY.jpg",
-    first: "Pedro",
-    last: "Cattori",
-    twitter: "@pcattori",
-  },
-  {
-    avatar:
-      "https://sessionize.com/image/eec1-400o400o2-HkvWKLFqecmFxLwqR9KMRw.jpg",
-    first: "Andre",
-    last: "Landgraf",
-    twitter: "@AndreLandgraf94",
-  },
-  {
-    avatar:
-      "https://sessionize.com/image/c73a-400o400o2-4MTaTq6ftC15hqwtqUJmTC.jpg",
-    first: "Monica",
-    last: "Powell",
-    twitter: "@indigitalcolor",
-  },
-  {
-    avatar:
-      "https://sessionize.com/image/cef7-400o400o2-KBZUydbjfkfGACQmjbHEvX.jpeg",
-    first: "Brian",
-    last: "Lee",
-    twitter: "@brian_dlee",
-  },
-  {
-    avatar:
-      "https://sessionize.com/image/f83b-400o400o2-Pyw3chmeHMxGsNoj3nQmWU.jpg",
-    first: "Sean",
-    last: "McQuaid",
-    twitter: "@SeanMcQuaidCode",
-  },
-  {
-    avatar:
-      "https://sessionize.com/image/a9fc-400o400o2-JHBnWZRoxp7QX74Hdac7AZ.jpg",
-    first: "Shane",
-    last: "Walker",
-    twitter: "@swalker326",
-  },
-  {
-    avatar:
-      "https://sessionize.com/image/6644-400o400o2-aHnGHb5Pdu3D32MbfrnQbj.jpg",
-    first: "Jon",
-    last: "Jensen",
-    twitter: "@jenseng",
-  },
+  
 ].forEach((contact) => {
   fakeContacts.create({
     ...contact,
