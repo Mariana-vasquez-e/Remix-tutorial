@@ -132,3 +132,5 @@ Sigue los siguientes pasos para instalar las dependencias y arrancar el proyecto
 - [Tutorial oficial](https://remix.run/docs/en/main/start/tutorial)
 
 ---
+
+¡Gracias por tu interés en este proyecto! 🚀
