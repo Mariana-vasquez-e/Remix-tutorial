@@ -8,23 +8,19 @@ Sigue los siguientes pasos para instalar las dependencias y arrancar el proyecto
 
 1. **Clona el repositorio**:
    ```bash
-   git clone <URL-del-repositorio>
-   cd <nombre-del-repositorio>
+   git clone https://github.com/Mariana-vasquez-e/Remix-tutorial.git
+   cd Remix-tutorial
    ```
 
 2. **Instala las dependencias**:
    Asegúrate de tener `npm` o `yarn` instalado en tu máquina, y luego ejecuta:
    ```bash
    npm install
-   # o
-   yarn install
    ```
 
 3. **Inicia el servidor de desarrollo**:
    ```bash
    npm run dev
-   # o
-   yarn dev
    ```
 
 4. **Abre el proyecto en tu navegador**:
@@ -132,5 +128,3 @@ Sigue los siguientes pasos para instalar las dependencias y arrancar el proyecto
 - [Tutorial oficial](https://remix.run/docs/en/main/start/tutorial)
 
 ---
-
-¡Gracias por tu interés en este proyecto! 🚀
