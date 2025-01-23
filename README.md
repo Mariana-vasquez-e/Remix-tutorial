@@ -13,7 +13,7 @@ Sigue los siguientes pasos para instalar las dependencias y arrancar el proyecto
    ```
 
 2. **Instala las dependencias**:
-   Asegúrate de tener `npm` o `yarn` instalado en tu máquina, y luego ejecuta:
+   Asegúrate de tener `npm` instalado en tu máquina, y luego ejecuta:
    ```bash
    npm install
    ```
@@ -24,7 +24,7 @@ Sigue los siguientes pasos para instalar las dependencias y arrancar el proyecto
    ```
 
 4. **Abre el proyecto en tu navegador**:
-   Una vez que el servidor esté corriendo, accede a `http://localhost:3000` para ver tu proyecto.
+   Una vez que el servidor esté corriendo, accede a `http://localhost:5174/` para ver tu proyecto.
 
 ---
 
